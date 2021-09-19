@@ -8,3 +8,5 @@
 BullBiased/BullBiased is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![pradumna](https://user-images.githubusercontent.com/90956475/133914024-8f5acd8d-677d-42ea-83ae-b2eaaedb3f36.GIF)
+![Pradumnasaraf](https://user-images.githubusercontent.com/90956475/133914025-b3432e86-978c-4a14-b229-5f53bf41df2c.png)
